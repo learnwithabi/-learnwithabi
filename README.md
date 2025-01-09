@@ -37,7 +37,12 @@ Here’s a summary of the meetups and online events where you presented, includi
    - **Description:** A highly successful session focusing on building data pipelines using AWS Databricks, showcasing your expertise in cloud-based data solutions.
 
    ICDMAI Workshop Thumbnail  *(Replace with actual thumbnail)*
+   
+   ![image](https://github.com/user-attachments/assets/91e781f1-434f-4056-b9f4-edcc9fd92306)
+
    ![image](https://github.com/user-attachments/assets/edfda94b-78d8-4447-8907-bbe08ad491bb)
+
+![image](https://github.com/user-attachments/assets/6984285a-b6a7-4577-ae0c-8bc97a5f54ac)
 
 
    - **LinkedIn Post:** [View Here](https://www.linkedin.com/posts/abishek-subramanian_datascience-ai-rag-activity-7279934161375608832-kcFT?utm_source=share&utm_medium=member_desktop)
